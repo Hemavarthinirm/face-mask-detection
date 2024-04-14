@@ -1,6 +1,9 @@
 # Face Mask Detection in CCTV Surveillance
 
 
+## Introduction
+
+Develop a face mask detection module to be integrated into existing CCTV surveillance systems for automatic monitoring of mask compliance in public areas. Utilize transfer learning to adapt pre-trained models to the specific context of surveillance footage.
 
 ## Features
 
