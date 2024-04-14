@@ -1,6 +1,6 @@
 # Face Mask Detection in CCTV Surveillance
 
-![Face Mask Detection](https://example.com/face_mask_detection.png)
+
 
 ## Features
 
@@ -28,6 +28,10 @@
 - The project utilizes pre-trained deep learning models and datasets, such as Faster R-CNN, YOLO, SSD, COCO dataset, and others.
 - Third-party libraries or frameworks used for data preprocessing, model training, and integration with CCTV surveillance systems.
 - Recognize the contributions of researchers, developers, and open-source communities who have made advancements in computer vision, deep learning, and public health technologies.
+## About oneAPI and oneDNN:
+![download](https://user-images.githubusercontent.com/111365771/222960387-f6aa6eb8-ef74-44aa-8576-78f6b78c29a8.jpg)
+
+oneAPI is an open-source software toolkit developed by Intel that simplifies the development of high-performance, heterogeneous applications. It allows developers to write code that can run efficiently on a variety of architectures, including CPUs, GPUs, and FPGAs. oneDNN (Deep Neural Network) is a part of oneAPI and is an optimized library for deep learning. It provides highly optimized building blocks for neural network models that run efficiently on a variety of hardware platforms.
 
 ## Future Scopes
 
